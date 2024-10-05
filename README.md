@@ -17,3 +17,8 @@ https://itsfoss.com/extension-manager/
 or
 https://flathub.org/apps/com.mattjakeman.ExtensionManager?ref=itsfoss.com 
 
+<!--
+this is the grub theme i used 
+-->
+
+https://github.com/harishnkr/bsol
