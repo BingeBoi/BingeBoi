@@ -22,3 +22,8 @@ this is the grub theme i used
 -->
 
 https://github.com/harishnkr/bsol
+
+<!--
+this is to set gdm background -->
+
+https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background
